@@ -38,7 +38,7 @@
         </div>
     </div>
     <?php if ($WHERE_AM_I != 'home'): ?>
-        <script src="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/prism.min.js" integrity="sha256-WygJkXg81QpcstolcPZdIP3MwQn27eHIlrV/LnBvlLg=" crossorigin="anonymous" referrerpolicy="no-referrer" nonce="DhcnhD3khTMePgXw" defer></script>   
+        <script src="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/prism.min.js" integrity="sha256-WygJkXg81QpcstolcPZdIP3MwQn27eHIlrV/LnBvlLg=" crossorigin="anonymous" referrerpolicy="no-referrer" defer></script>   
     <?php endif; ?>
     <?php Theme::plugins('siteBodyEnd'); ?>
 </body>
