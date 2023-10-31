@@ -8,7 +8,7 @@ A blogging theme focusing on text and also following some WCAG recommendations i
 - Super light on browsers with only 36KB page weight which constitutes to 0.01g CO2e per new visit[^1]
 - Text focus with big and bold text
 - With simple content markup microdata using Schema.org vocabulary for every single blog posts
-- WCAG 2.1 AA & ADA Compliant (machine-tested)
+- WCAG 2.1 AA & ADA Compliant (machine-tested, navigation is self-tested using NVDA)
 - Three languages support: Indonesian, English, and Japanese
 - Critical inline CSS and asynchronous CSS load
 - Minimal and non-intrusive use of Javascript
