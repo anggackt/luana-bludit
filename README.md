@@ -27,6 +27,6 @@ A blogging theme focusing on text and also following some WCAG recommendations i
 
 ![Luana theme performance on PageSpeed for mobile mode showing all 100 for Performance, Accessibility, Best Practice, and SEO](luanapagespeed.webp)
 
-[^1]: In development and controlled test-case, users page weight test may vary but still very light bar any user added assets.
+[^1]: In development and controlled test-case. Users page weight test may vary but still very light, bar any user added assets.
 [^2]: This theme is using CSS Container Query Units [(Compatibility)](https://caniuse.com/css-container-query-units)
 [^3]: Experiences may vary from person to person and use case.
