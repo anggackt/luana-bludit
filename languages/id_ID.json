@@ -1,0 +1,29 @@
+{
+	"theme-data":
+	{
+		"name": "Luana",
+		"description": "Sebuah tema blogging sederhana yang dibuat dengan aksesibilitas sebagai poin utama"
+	},
+	"welcome": "Selamat datang di",
+	"minutes": "menit",
+	"author": "Penulis",
+	"date": "Terbit",
+	"read": "Waktu baca",
+	"next": "Post baru",
+	"previous": "Post lama",
+	"avatar": "Gambar Profil Pengguna",
+	"powered": "diperkuat oleh",
+	"license": "Logo Lisensi Creative Commons BY-SA",
+	"credits": "Tema oleh",
+	"logox": "Logo (Kembali ke halaman depan)",
+	"share": "Bagikan",
+	"share-t": "Twitter/X",
+	"share-f": "Facebook",
+	"share-e": "Surel",
+	"tag": "Tag",
+	"tag-filter": "Hanya menampilkan artikel dengan tag:",
+	"category-filter": "Hanya menampilkan artikel di kategori ini:",
+	"search-filter": "Hasil pencarian dari",
+	"navi": "Navigasi Utama",
+	"direct": "Langsung ke konten utama"
+}

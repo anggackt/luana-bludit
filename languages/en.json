@@ -1,0 +1,29 @@
+{
+	"theme-data":
+	{
+		"name": "Luana",
+		"description": "A simple blogging theme designed with accessibility in mind"
+	},
+	"welcome": "Welcome to",
+	"minutes": "minutes",
+	"author": "Author",
+	"date":"Published",
+	"read": "Reading time",
+	"next": "Next",
+	"previous": "Previous",
+	"avatar": "Profile Picture",
+	"powered": "powered by",
+	"license": "Creative Commons BY-SA Logo",
+	"credits": "Theme by",
+	"logox": "Logo (Back to homepage)",
+	"share": "Share",
+	"share-t": "Twitter/X",
+	"share-f": "Facebook",
+	"share-e": "Email",
+	"tag": "Tags",
+	"tag-filter": "Only showing article with this tag:",
+	"category-filter": "Only showing article in this category:",
+	"search-filter": "Search result(s) for",
+	"navi": "Main Navigation",
+	"direct": "Go directly to main content"
+}

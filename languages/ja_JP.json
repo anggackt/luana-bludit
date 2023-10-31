@@ -1,0 +1,29 @@
+{
+	"theme-data":
+	{
+		"name": "ルアナ",
+		"description": "ルアナは、アクセシビリティを念頭にデザインされたシンプルなブログテーマ"
+	},
+	"welcome": "へようこそ",
+	"minutes": "分",
+	"author": "作家",
+	"date": "発行日",
+	"read": "読む時間",
+	"next": "次のページ",
+	"previous": "前のページ",
+	"avatar": "アイコン",
+	"powered": "powered by",
+	"license": "Creative Commons BY-SA ロゴ",
+	"credits": "テーマ:",
+	"logox": "ロゴ (ホームページに戻る)",
+	"share": "シェアする",
+	"share-t": "ツイッターで",
+	"share-f": "フェイスブックで",
+	"share-e": "メールで",
+	"tag": "タグ",
+	"tag-filter": "このタグの記事のみを表示する：",
+	"category-filter": "このコテゴリーの記事のみを表示する：",
+	"search-filter": "検索キーワード:",
+	"navi": "ナビゲーション",
+	"direct": "クリックしてメインコンテンツへ"
+}
