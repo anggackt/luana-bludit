@@ -1,6 +1,6 @@
 # Luana for Bludit Theme
 
-A blogging theme focusing on text and maximizing usability for screen reader users made with a small CSS framework called Chota.
+A blogging theme focusing on text and also following some WCAG recommendations in an effort to make the web more accessible, built using a small footprint CSS framework called Chota.
 
 ## Features
 
