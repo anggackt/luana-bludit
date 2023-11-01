@@ -26,6 +26,15 @@ A blogging theme focusing on text and also following some WCAG recommendations i
 
 ![Luana theme performance on PageSpeed for mobile mode showing all 100 for Performance, Accessibility, Best Practice, and SEO](luanapagespeed.webp)
 
+## Notes
+The current (Bludit 3.15.0) included search plugin could cause some issues with accessibility test. To ensure there are no critical errors for accessibility, you can add the required aria-label on the form function in the search plugin (bl-plugins/search/plugin.php) by yourself.
+
+Example:
+
+```php
+$html .= '<input type="text" id="jspluginSearchText" aria-label="'.$L->get('Search').'" /> ';
+```
+
 [^1]: In development and controlled test-case. Users page weight test may vary but still very light, bar any user added assets.
 [^2]: This theme is using CSS Container Query Units [(Compatibility)](https://caniuse.com/css-container-query-units)
 [^3]: Experiences may vary from person to person and use case.
