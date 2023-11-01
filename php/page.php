@@ -7,7 +7,7 @@
     <div class="meta_top">
         <ul>
             <li><?php echo $L->get('date'); ?>:&nbsp;<time datetime="<?php echo $page->date('Y-m-d') ?>" itemprop="dateCreated datePublished"><?php echo $page->date() ?></time></li>
-            <li><?php echo $L->get('author'); ?>:&nbsp;</span><span itemprop="author publisher"><?php echo $page->user('nickname'); ?></span></li>
+            <li><?php echo $L->get('author'); ?>:&nbsp;<span itemprop="author publisher"><?php echo $page->user('nickname'); ?></span></li>
         </ul>
     </div>
     <?php endif ?>
