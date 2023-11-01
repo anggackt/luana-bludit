@@ -5,7 +5,7 @@ A blogging theme focusing on text and also following some WCAG recommendations i
 ## Features
 
 - Include PrismJS for syntax highlighting with a11y-light syntax highlighting theme by [Eric W. Bailey](https://github.com/ericwbailey/a11y-syntax-highlighting)
-- Super light on browsers with only 36KB page weight which constitutes to 0.01g CO2e per new visit[^1]
+- Super light on browsers and network with only around 107KB or so total page size with approximately 0.01g CO2e carbon footprint per new visit[^1]
 - Text focus with big and bold text
 - With simple content markup microdata using Schema.org vocabulary for every single blog posts
 - WCAG 2.1 AA & ADA Compliant (machine-tested, navigation is self-tested using NVDA)
@@ -35,6 +35,6 @@ Example:
 $html .= '<input type="text" id="jspluginSearchText" aria-label="'.$L->get('Search').'" /> ';
 ```
 
-[^1]: In development and controlled test-case. Users page weight test may vary but still very light, bar any user added assets.
+[^1]: In development and controlled test-case. Users test may vary but still very light, bar any user added assets.
 [^2]: This theme is using CSS Container Query Units [(Compatibility)](https://caniuse.com/css-container-query-units)
 [^3]: Experiences may vary from person to person and use case.
