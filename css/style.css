@@ -384,6 +384,7 @@ li::marker {
     top: -57px;
     right: 5px;
     float: right;
+    min-width: 10rem;
 }
 
 /*========================================
