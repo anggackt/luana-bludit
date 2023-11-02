@@ -438,6 +438,16 @@ a0z. Screen adjustment
     pre {
         width: 91vw;
     }
+    /* might be needed one day in certain cases 
+    (eg: users that might unknowingly uses long inline codes without any wrapper) 
+    not extensively tested so let's keep it for safekeeping
+    -------------------------------------------------------
+    code:not([class]) {
+        max-width: 91vw;
+        overflow: scroll;
+        display: inline-flex;
+    }
+    */
     .artikel ul, ol {
         padding-inline-start: 15px;
     }
